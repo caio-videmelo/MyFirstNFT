@@ -71,4 +71,4 @@ As ilustrações baseadas nos temas descritos foram obtidas da galeria da lexica
 
 Contrato Solidity para mintar um NFT na blockchain Polygon:
 
-<img src="https://github.com/user-attachments/assets/5dc72d27-3f50-496c-b965-876f7cb79093" alt="Carbon"/>
+<img src="https://github.com/user-attachments/assets/8e9763ac-93c5-4eaf-a239-9961c2acbb87" alt="Carbon"/>
