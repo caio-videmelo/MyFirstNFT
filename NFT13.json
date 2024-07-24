@@ -1,0 +1,19 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of a black woman meditating.",
+    "image": "https://image.lexica.art/full_webp/518a2b86-a718-478d-b9e1-53ff53dc17c3",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
