@@ -1,0 +1,19 @@
+{
+    "name": "Noon Meditation",
+    "description": "A serene illustration of a white woman meditating in a field during sunset.",
+    "image": "https://image.lexica.art/full_webp/07efd687-cc71-4411-822f-980af57ce7b4",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Field"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
