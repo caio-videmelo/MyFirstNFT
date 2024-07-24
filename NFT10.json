@@ -1,0 +1,19 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of group meditating on a gym.",
+    "image": "https://image.lexica.art/full_webp/02f14b31-73d4-42eb-b622-6b00e2cfbb6b",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Gym"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Advanced"
+      }
+    ]
+  }
