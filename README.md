@@ -66,3 +66,21 @@ As ilustrações baseadas nos temas descritos foram obtidas da galeria da lexica
 2. Engajamento: Cria uma conexão emocional com os colecionadores através de temas relevantes e significativos.
 
 3. Impacto Social: Contribui para uma causa nobre ao apoiar organizações de saúde mental.
+
+## NFT.sol:
+
+<img src="https://github.com/user-attachments/assets/30fa1fb1-7cd5-4ac4-8520-e56880057372" alt="Carbon"/>
+
+## Lock.sol:
+
+<img src="https://github.com/user-attachments/assets/30f4a7af-b65e-4179-adc9-caaaca0541fc" alt="Carbon1"/>
+
+## hardhat.config.js:
+
+<img src="https://github.com/user-attachments/assets/ae67f365-796f-4a4d-9b7c-3ace96254b0e" alt="Carbon2"/>
+
+## package.json:
+
+<img src="https://github.com/user-attachments/assets/fb44fbec-4e54-4b36-a312-eaf160353290" alt="Carbon3"/>
+
+
