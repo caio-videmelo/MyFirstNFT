@@ -66,9 +66,3 @@ As ilustrações baseadas nos temas descritos foram obtidas da galeria da lexica
 2. Engajamento: Cria uma conexão emocional com os colecionadores através de temas relevantes e significativos.
 
 3. Impacto Social: Contribui para uma causa nobre ao apoiar organizações de saúde mental.
-
-## Código Solidity:
-
-Contrato Solidity para mintar um NFT na blockchain Polygon:
-
-<img src="https://github.com/user-attachments/assets/8e9763ac-93c5-4eaf-a239-9961c2acbb87" alt="Carbon"/>
