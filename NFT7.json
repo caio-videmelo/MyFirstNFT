@@ -1,0 +1,19 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of an asian man meditating in a japanese garden.",
+    "image": "https://image.lexica.art/full_webp/b374177b-60a9-480c-8a84-5ce229c9eb38",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Field"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
