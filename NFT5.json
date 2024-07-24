@@ -1,0 +1,19 @@
+{
+    "name": "Night Meditation",
+    "description": "A serene illustration of a couple meditating between mountains, symbolizing peace of mind and protection.",
+    "image": "https://image.lexica.art/full_webp/4e00bb13-9515-4aeb-b078-3c0049448834",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Mountain"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Intermediate"
+      }
+    ]
+  }
