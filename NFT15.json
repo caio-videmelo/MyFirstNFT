@@ -1,0 +1,20 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of a bald man meditating in a forest.",
+    "image": "https://image.lexica.art/full_webp/4f11273b-b4ca-4eda-9676-ecd881767ed7",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
+  
