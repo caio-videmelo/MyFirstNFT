@@ -73,3 +73,15 @@ Consider donating a percentage of the profits to organizations working in mental
 2. Engagement: Creates an emotional connection with collectors through relevant and meaningful themes.
 
 3. Social Impact: Contributes to a noble cause by supporting mental health organizations.
+
+## NFT.sol:
+
+<img src="https://github.com/user-attachments/assets/30fa1fb1-7cd5-4ac4-8520-e56880057372" alt="Carbon"/>
+
+## Lock.sol:
+
+<img src="https://github.com/user-attachments/assets/30f4a7af-b65e-4179-adc9-caaaca0541fc" alt="Carbon1"/>
+
+## hardhat.config.js:
+
+<img src="https://github.com/user-attachments/assets/ae67f365-796f-4a4d-9b7c-3ace96254b0e" alt="Carbon2"/>
