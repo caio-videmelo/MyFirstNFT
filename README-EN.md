@@ -52,7 +52,7 @@ Special Attributes:
 
 ### Development of the Artworks:
 
-Artworks were collected from the lexica.art gallery, URLs available on https://github.com/caio-videmelo/MyFirstNFT/image/NFTimage.txt
+Artworks were collected from the lexica.art gallery, URLs available on https://github.com/caio-videmelo/MyFirstNFT/image/ImageNFTs.txt
 
 ### Minting on the Blockchain:
 
