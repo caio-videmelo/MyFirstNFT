@@ -1,0 +1,19 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of a woman meditating in a forest.",
+    "image": "https://image.lexica.art/full_webp/30e97edc-1161-42a6-8a2e-0dc25c78b927",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
