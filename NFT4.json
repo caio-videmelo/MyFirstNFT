@@ -1,0 +1,19 @@
+{
+    "name": "Morning Meditation",
+    "description": "Another serene illustration of a white woman meditating at sunrise, symbolizing the start of a calm and centered day.",
+    "image": "https://image.lexica.art/full_webp/db06cf39-5d55-4c3b-9968-101169e2c98d",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
