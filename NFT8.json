@@ -1,0 +1,19 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of two black woman meditating in a forest.",
+    "image": "https://image.lexica.art/full_webp/0bce39ba-90a2-44b1-9297-ab0fb994dbae",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Intermediate"
+      }
+    ]
+  }
