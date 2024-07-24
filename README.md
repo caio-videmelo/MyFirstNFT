@@ -9,7 +9,7 @@ Desafio DIO.me criando meu primeiro NFT
 
 A coleção "Mindful Moments" celebra a importância da saúde mental e do bem-estar, destacando práticas de mindfulness e autocuidado. Cada NFT da coleção representa um momento ou prática que pode ajudar as pessoas a encontrarem paz e equilíbrio em suas vidas diárias. Esta coleção visa aumentar a conscientização sobre a saúde mental e promover práticas saudáveis.
 
-## Características dos NFTs:
+## Exemplos de características dos NFTs:
 
 ## Título: Meditação Matinal
 
@@ -51,7 +51,7 @@ Descrição: Uma arte digital de uma caminhada tranquila em uma floresta, destac
 
 Desenvolvimento das Artes:
 
-As ilustrações baseadas nos temas descritos foram obtidas da galeria da lexica.art.
+As artes foram coletadas da galeria disponível em lexica.art, as URLs se encontram em: https://github.com/caio-videmelo/MyFirstNFT/image/ImageNFTs.txt
 
 ## Mintagem na Blockchain:
 
