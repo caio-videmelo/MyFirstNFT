@@ -1,0 +1,20 @@
+{
+    "name": "Morning Meditation",
+    "description": "A serene illustration of a person meditating at sunrise, symbolizing the start of a calm and centered day.",
+    "image": "ipfs://path-to-image",
+    "attributes": [
+      {
+        "trait_type": "Meditation Time",
+        "value": "30 minutes"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Nature"
+      },
+      {
+        "trait_type": "Difficulty Level",
+        "value": "Beginner"
+      }
+    ]
+  }
+  
