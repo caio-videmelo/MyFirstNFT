@@ -76,7 +76,7 @@ Consider donating a percentage of the profits to organizations working in mental
 
 ## MindfulMomentsCollection.sol:
 
-<img src="https://github.com/user-attachments/assets/1a29996f-2d91-436f-97d2-57cc6ae7ea3f" alt="Carbon/>
+<img src="https://github.com/user-attachments/assets/1a29996f-2d91-436f-97d2-57cc6ae7ea3f" alt="Carbon"/>
 
 ## Lock.sol:
 
