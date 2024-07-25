@@ -92,4 +92,4 @@ Consider donating a percentage of the profits to organizations working in mental
 
 ## Printscreen npx hardhat compile succsess:
 
-< img src="https://github.com/user-attachments/assets/2292e5a0-b584-4076-aca0-27ec3acff8c8" alt="Print"/>
+<img src="https://github.com/user-attachments/assets/2292e5a0-b584-4076-aca0-27ec3acff8c8" alt="Print"/>
