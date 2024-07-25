@@ -74,14 +74,22 @@ Consider donating a percentage of the profits to organizations working in mental
 
 3. Social Impact: Contributes to a noble cause by supporting mental health organizations.
 
-## NFT.sol:
+## MindfulMomentsCollection.sol:
 
-<img src="https://github.com/user-attachments/assets/30fa1fb1-7cd5-4ac4-8520-e56880057372" alt="Carbon"/>
+<img src="https://github.com/user-attachments/assets/1a29996f-2d91-436f-97d2-57cc6ae7ea3f" alt="Carbon/>
 
 ## Lock.sol:
 
-<img src="https://github.com/user-attachments/assets/30f4a7af-b65e-4179-adc9-caaaca0541fc" alt="Carbon1"/>
+<img src="https://github.com/user-attachments/assets/9e254850-71db-4998-a787-e32ffbb52a8b" alt="Carbon1"/>
 
 ## hardhat.config.js:
 
-<img src="https://github.com/user-attachments/assets/ae67f365-796f-4a4d-9b7c-3ace96254b0e" alt="Carbon2"/>
+<img src="https://github.com/user-attachments/assets/9bcddfb1-baad-4169-8141-ec63270a7202" alt="Carbon2"/>
+
+## deploy.js
+
+<img src="https://github.com/user-attachments/assets/32acdf15-d287-4d3c-98a1-37735d2daca4" alt="Carbon3"/>
+
+## Printscreen npx hardhat compile succsess:
+
+< img src="https://github.com/user-attachments/assets/2292e5a0-b584-4076-aca0-27ec3acff8c8" alt="Print"/>
