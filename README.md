@@ -85,4 +85,4 @@ As artes foram coletadas da galeria disponível em lexica.art, as URLs se encont
 
 ## Printscreen npx hardhat compile succsess:
 
-< img src="https://github.com/user-attachments/assets/2292e5a0-b584-4076-aca0-27ec3acff8c8" alt="Print"/>
+<img src="https://github.com/user-attachments/assets/2292e5a0-b584-4076-aca0-27ec3acff8c8" alt="Print"/>
